@@ -7,9 +7,15 @@
 
 - 🌱 I’m currently learning **MongoDb,ExpressJs**
 
+- ## 🛠️ Featured Projects
+
+### 🔹 NextStep | AI Learning App  
+An AI-powered learning platform to practice and improve your knowledge.  
+🔗 **Live Demo:** https://nextstepaiprep.vercel.app/
+
 - 👨‍💻 All of my projects are available at [https://my-portfolio-akash-thakur.netlify.app/](https://my-portfolio-akash-thakur.netlify.app/)
 
-- 💬 Ask me about **ReactJs, NodeJs**
+- 💬 Ask me about **ReactJs, NodeJs, Java, JavaScript**
 
 - 📫 How to reach me **akashthakur9395@gmail.com**
 
