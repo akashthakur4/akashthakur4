@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akashthakur9395@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17DRTAGmOVk6HeGGOp8y0LDcx0mNrwx9S/view?usp=drivesdk](https://drive.google.com/file/d/17DRTAGmOVk6HeGGOp8y0LDcx0mNrwx9S/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CSaXJZ306aaj8GqqphsdkJxlKEISSUbo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
