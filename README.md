@@ -5,6 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=akashthakur4&label=Profile%20views&color=0e75b6&style=flat" alt="akashthakur4" /> 
 </p>
 
+## 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashthakur4&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashthakur4&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+
 - 🌱 I’m currently learning **MongoDb,ExpressJs**
 
 - ## 🛠️ Featured Projects
